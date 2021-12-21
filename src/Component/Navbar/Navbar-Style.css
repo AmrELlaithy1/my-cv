@@ -1,0 +1,36 @@
+
+.ul_home .active{
+    background-color: red;
+    color: #fff;
+    border-radius: 20px;
+}
+.nav-NavLink{
+    border-radius: 20px;
+}
+ul {
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+    
+  
+}
+.ul_home ul li a{
+    text-decoration: none;
+    color: #fff;
+    padding: 10px 10px;
+    font-weight: bold;
+    margin-left: 5px;
+}
+
+.ul_home ul li a:hover{
+    background-color: red;
+    color: #fff;
+    border-radius: 20px;
+}
+
+/* 
+.nav_brand{
+     font-family: Helvetica Inserat ; 
+   font-weight: bolder;
+   font-size: 25px;
+} */

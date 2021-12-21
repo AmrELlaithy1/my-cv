@@ -1,0 +1,13 @@
+
+body{
+    background-color: #fafafa;
+    box-sizing: border-box;
+
+}
+.arrow{
+    position :absolute;
+    right: 50px;
+    top: 100%; 
+    border: 1px solid red;
+    
+}
